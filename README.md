@@ -56,9 +56,4 @@ Below are some of the most representative repositories from my profile. They hig
 
 *(Explore more repositories on my GitHub profile.)*
 
-## 📫 Let's Connect
-
-- **GitHub:** [github.com/dhatfieldai](https://github.com/dhatfieldai)
-- Open to collaborations, consulting, and building AI-powered SaaS products, automation platforms, and scalable full-stack systems.
-
 Thanks for visiting! ⭐
