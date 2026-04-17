@@ -12,6 +12,7 @@ I work well with early-stage startups who need a technical co-pilot as much as a
 ## 💼 What I Do Best
 
 - **AI Agent development** — my strongest area; I build robust agent systems with tool-calling, memory, orchestration, and automation for real business use cases
+- **Knowledge systems** — experience building graph-backed applications, modeling structured relationships, and working with Neo4j/Cypher for intelligent data retrieval
 - **AI SaaS product development** — LLM pipelines, RAG systems, and intelligent workflows that power scalable software products
 - **Full stack engineering** with Python (FastAPI / Django), React / Next.js, and Node.js
 - **Backend architecture** with Supabase, PostgreSQL, and RESTful API design
@@ -23,6 +24,7 @@ I work well with early-stage startups who need a technical co-pilot as much as a
 - **Backend:** Python, FastAPI, Django, Node.js, REST APIs, scalable backend systems
 - **Frontend:** React, Next.js, responsive product interfaces, modern SaaS UI
 - **Database:** PostgreSQL, Supabase, relational data modeling, API-driven systems
+- **Graph & Retrieval:** Neo4j, Cypher, knowledge graphs, ontology-driven modeling
 - **AI & Automation:** OpenAI, LangChain, RAG pipelines, AI agents, workflow automation
 - **Cloud & DevOps:** AWS, Docker, CI/CD, production deployment, scalable infrastructure
 
