@@ -18,6 +18,7 @@ I work well with early-stage startups who need a technical co-pilot as much as a
 - **Backend architecture** with Supabase, PostgreSQL, and RESTful API design
 - **AWS cloud infrastructure** with Docker and CI/CD pipelines
 - **End-to-end product delivery** from architecture to production deployment
+- **Server management & DevOps** — bare-metal server administration, security hardening, MySQL optimization, rsync backups, Nginx, and rapid incident response for business-critical systems
 
 ## 🧰 Tech Stack
 
