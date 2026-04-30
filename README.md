@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David
 
-**Senior Software Engineer | Python, React, Node.js, Pipedrive, AI Agent, SaaS, Server Admin**<br/><br />
+**Senior Software Engineer | Python, Golang, React, Node.js, Pipedrive, AI Agent, SaaS, Server Admin**<br/><br />
 You don't just need a developer — you need someone who understands how to ship AI-powered products that scale.
 
 I'm a **Senior Full Stack Engineer** with deep expertise in building modern SaaS applications from the ground up. My sweet spot is where intelligent systems meet great user experience — architecting backends that power **LLM and AI agent workflows**, designing clean **React frontends**, and wiring everything together with robust APIs that perform under pressure.
@@ -14,7 +14,7 @@ I work well with early-stage startups who need a technical co-pilot as much as a
 - **AI Agent development** — my strongest area; I build robust agent systems with tool-calling, memory, orchestration, and automation for real business use cases
 - **Knowledge systems** — experience building graph-backed applications, modeling structured relationships, and working with Neo4j/Cypher for intelligent data retrieval
 - **AI SaaS product development** — LLM pipelines, RAG systems, and intelligent workflows that power scalable software products
-- **Full stack engineering** with Python (FastAPI / Django), React / Next.js, and Node.js
+- **Full stack engineering** with Python (FastAPI / Django), Golang, React / Next.js, and Node.js
 - **Backend architecture** with Supabase, PostgreSQL, and RESTful API design
 - **AWS cloud infrastructure** with Docker and CI/CD pipelines
 - **End-to-end product delivery** from architecture to production deployment
