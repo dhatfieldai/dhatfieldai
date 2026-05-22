@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David
 
-**Senior Software Engineer | Python, .NET, ROR, Golang, React, Node.js, AI Agent, SaaS, ColdFusion, Server Admin**<br/><br />
+**Senior Software Engineer | Python, .NET, Java, Golang, React, Node.js, AI Agent, SaaS, ColdFusion, Server Admin**<br/><br />
 You don't just need a developer — you need someone who understands how to ship AI-powered products that scale.
 
 I'm a **Senior Full Stack Engineer** with deep expertise in building modern SaaS applications from the ground up. My sweet spot is where intelligent systems meet great user experience — architecting backends that power **LLM and AI agent workflows**, designing clean **React frontends**, and wiring everything together with robust APIs that perform under pressure.
